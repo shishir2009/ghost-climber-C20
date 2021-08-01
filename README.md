@@ -1,1 +1,1 @@
-# ghost-climber-C20
+# C20
